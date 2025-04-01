@@ -14,7 +14,7 @@
 - 🎨 **Modern & Responsive UI** – Works smoothly on desktop and mobile  
 
 ## Screenshots 📸  
-![musicApp](assets/image1.png)   
+![Music App](assets/image1.png)   
 ![Music App](assets/image3.png) 
 ![Music App](assets/image2.png)  
 ![Music App](assets/image4.png)  
