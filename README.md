@@ -1,36 +1,45 @@
-# Music App
-## Projektübersicht
-- Lieder abspielen, pausieren, vor- und zurückspulen
-- Lieder filtern und suchen
-- Favoriten speichern
-- Playlist anzeigen
+# 🎵 MusicApp  
 
----
+🚀 A modern web application for discovering, playing, and managing music online.  
 
-## Team: Dursel, Angelique, Jing 
+🔗 **Live Demo:** [MusicApp](https://durseltuerkan.github.io/musicApp/)  
 
-- ### BeatBuilders
-- **Thema**: Musik-App mit interaktiver Playlist
+## Features ✨  
 
-## Ziel des Projekts
+- 🎶 **Play & Pause Music** – Stream songs directly in the app  
+- 🔍 **Search for Songs** – Find music by title, artist, or album  
+- 📌 **Favorite Songs** – Save tracks to a favorites list  
+- 📋 **List & Single View** – View music in a list or focus on individual songs  
+- 🔀 **Shuffle Songs** – Randomly shuffle songs for a fresh listening experience  
+- 🎨 **Modern & Responsive UI** – Works smoothly on desktop and mobile  
 
-- Dieses Projekt dient dem Zweck, unsere Fähigkeiten im Umgang mit TypeScript, CSS und HTML zu erweitern. Wir möchten das Gelernte praktisch anwenden und uns herausfordern, um neue Erfahrungen im Bereich der Frontend-Entwicklung zu sammeln.
+## Screenshots 📸  
+![musicApp](assets/image1.png)   
+![Music App](assets/image3.png) 
+![Music App](assets/image2.png)  
+![Music App](assets/image4.png)  
+
+## Technologies Used 🛠️  
+
+- **Frontend:** HTML5, CSS,Javascript, TypeScript  
+- **Deployment:** GitHub Pages
+
+  ## 👥 Team  
+
+This project was developed by:
+
+- **Dursel Türkan**  
+- **Jing Li**  
+- **Mame Angelique**
+
+    ## Contact 📩  
+For any inquiries or feedback, feel free to reach out:  
+
+👤 **Dursel Türkan**  
+- GitHub: [@durseltuerkan](https://github.com/durseltuerkan)  
+- LinkedIn: [https://www.linkedin.com/in/dursel-tuerkan/](https://www.linkedin.com/in/dursel-tuerkan/) 
+- Email: durselturkan@gmail.com 
 
 
-## Technologien
-- **HTML** - Für die Strukturierung der Benutzeroberfläche
-- **CSS** - Für eine schnelle und responsive Gestaltung des User Interface
-- **Typescript** - Für die strukturierte Programmierung
 
 
-## Funktionen der App
-- **Abspielen und Pausieren**: Der Benutzer kann ein Lied aus der Playlist abspielen und pausieren.
-- **Vor-und Zurückspringen**: Der Benutzer kann Lieder überspringen oder zurückgehen.
-- **Vor-und Zurückspulen**: Der Benuter kann während der Wiedergabe vor- und zurückspulen.
-- **Favoriten speichern**: Lieder können als Favoriten markiert werden.
-- **Shuffle-Modus**- Zufällige Wiedergabe der Lieder.
-
-
-
-
-**Viel Spaß beim Entdecken und Ausprobieren der App! 🎉**
