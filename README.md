@@ -14,14 +14,14 @@
 - 🎨 **Modern & Responsive UI** – Works smoothly on desktop and mobile  
 
 ## Screenshots 📸  
-![Music App](assets/image1.png)   
+![musicApp](assets/image1.png)   
 ![Music App](assets/image3.png) 
 ![Music App](assets/image2.png)  
 ![Music App](assets/image4.png)  
 
 ## Technologies Used 🛠️  
 
-- **Frontend:** HTML, CSS, TypeScript  
+- **Frontend:** HTML5, CSS,Javascript, TypeScript  
 - **Deployment:** GitHub Pages
 
   ## 👥 Team  
