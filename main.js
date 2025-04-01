@@ -49,7 +49,7 @@ let playlistCurrentSong;
 let playlistCurrentSongLikeBtn;
 let isShuffling = false;
 let isRepeating = false;
-let currentSongIndex = Number(audioPlayer.src.match(/music-(\d+)\.mp3/)?.[1]) || 0;
+let currentSongIndex = Number(audioPlayer.src.split("").slice(-5, -4).join("")) || 0;
 let timer = 0;
 // FUNCTIONS
 const fetchData = () => __awaiter(void 0, void 0, void 0, function* () {
